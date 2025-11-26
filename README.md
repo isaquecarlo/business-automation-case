@@ -16,16 +16,24 @@ A equipe lidava diariamente com grandes volumes de dados no **Excel**, realizand
 ### 💡 A Solução (The Solution)
 Desenvolvi scripts em **Python** utilizando a biblioteca **Pandas** para substituir o fluxo manual.
 
+> *I developed **Python** scripts using the **Pandas** library to replace the manual workflow.*
+
 * **Leitura Automática:** O script lê múltiplos arquivos Excel brutos.
+  > * **Automatic Reading:** The script reads multiple raw Excel files.*
 * **Tratamento de Dados:** Aplicação de regras de negócio, limpeza de nulos e padronização de colunas.
+  > * **Data Processing:** Application of business rules, cleaning null values, and column standardization.*
 * **Exportação:** Geração automática de relatórios finais prontos para análise.
+  > * **Exporting:** Automatic generation of final reports ready for analysis.*
 
 ---
 
 ### 🚀 Resultados (Results)
 * **Redução de Tempo:** Processos que levavam horas foram reduzidos para segundos.
+  > * **Time Reduction:** Processes that took hours were reduced to seconds.*
 * **Confiabilidade:** Eliminação de erros manuais de cópia e cola.
+  > * **Reliability:** Elimination of manual copy-paste errors.*
 * **Impacto:** A automação permitiu que a equipe focasse em análise estratégica ao invés de tarefas operacionais.
+  > * **Impact:** Automation allowed the team to focus on strategic analysis rather than operational tasks.*
 
 ---
 
